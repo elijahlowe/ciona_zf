@@ -1,0 +1,11 @@
+{
+    "salmon_version": "0.14.1",
+    "index": "Crob_index",
+    "libType": "A",
+    "mates1": "AS04-Zfp3_S6_L003_R1_001.fastq.gz",
+    "mates2": "AS04-Zfp3_S6_L003_R2_001.fastq.gz",
+    "threads": "8",
+    "validateMappings": [],
+    "output": "quants/AS04-Zfp3_S6_L003_quant",
+    "auxDir": "aux_info"
+}

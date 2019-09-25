@@ -1,0 +1,21 @@
+{
+    "read_files": "[ AS04-Zfp1_S2_L001_R1_001.fastq.gz, AS04-Zfp1_S2_L001_R2_001.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 23875965,
+    "num_assigned_fragments": 23875965,
+    "num_frags_with_consistent_mappings": 22006485,
+    "num_frags_with_inconsistent_or_orphan_mappings": 1869729,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 282,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 22006485,
+    "SF": 850974,
+    "SR": 1018473,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
