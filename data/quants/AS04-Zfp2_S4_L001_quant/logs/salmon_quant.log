@@ -1,200 +1,200 @@
-[2019-10-10 12:01:31.666] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
-[2019-10-10 12:01:31.666] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
-[2019-10-10 12:01:31.666] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
-[2019-10-10 12:01:31.666] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
-[2019-10-10 12:01:31.666] [jointLog] [info] parsing read library format
-[2019-10-10 12:01:31.666] [jointLog] [info] There is 1 library.
-[2019-10-10 12:01:31.737] [jointLog] [info] Loading Quasi index
-[2019-10-10 12:01:31.737] [jointLog] [info] Loading 32-bit quasi index
-[2019-10-10 12:01:34.079] [jointLog] [info] done
-[2019-10-10 12:01:34.079] [jointLog] [info] Index contained 52,719 targets
-[2019-10-10 12:01:35.268] [jointLog] [info] Automatically detected most likely library type as ISR
-[2019-10-10 12:03:04.991] [jointLog] [info] Thread saw mini-batch with a maximum of 1.20% zero probability fragments
-[2019-10-10 12:03:04.998] [jointLog] [info] Thread saw mini-batch with a maximum of 1.14% zero probability fragments
-[2019-10-10 12:03:05.019] [jointLog] [info] Thread saw mini-batch with a maximum of 1.26% zero probability fragments
-[2019-10-10 12:03:05.021] [jointLog] [info] Thread saw mini-batch with a maximum of 1.28% zero probability fragments
-[2019-10-10 12:03:05.052] [jointLog] [info] Thread saw mini-batch with a maximum of 1.26% zero probability fragments
-[2019-10-10 12:03:05.082] [jointLog] [info] Thread saw mini-batch with a maximum of 1.18% zero probability fragments
-[2019-10-10 12:03:05.099] [jointLog] [info] Thread saw mini-batch with a maximum of 1.30% zero probability fragments
-[2019-10-10 12:03:05.130] [jointLog] [info] Thread saw mini-batch with a maximum of 1.26% zero probability fragments
-[2019-10-10 12:03:05.204] [jointLog] [info] Computed 80,096 rich equivalence classes for further processing
-[2019-10-10 12:03:05.204] [jointLog] [info] Counted 17,303,451 total reads in the equivalence classes 
-[2019-10-10 12:03:05.218] [jointLog] [info] Number of mappings discarded because of alignment score : 586,220
-[2019-10-10 12:03:05.218] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 608,686
-[2019-10-10 12:03:05.218] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
-[2019-10-10 12:03:05.218] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 97,404
-[2019-10-10 12:03:05.218] [jointLog] [info] Mapping rate = 84.3582%
+[2019-10-28 19:41:49.831] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2019-10-28 19:41:49.831] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2019-10-28 19:41:49.831] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2019-10-28 19:41:49.831] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2019-10-28 19:41:49.831] [jointLog] [info] parsing read library format
+[2019-10-28 19:41:49.831] [jointLog] [info] There is 1 library.
+[2019-10-28 19:41:49.882] [jointLog] [info] Loading Quasi index
+[2019-10-28 19:41:49.882] [jointLog] [info] Loading 32-bit quasi index
+[2019-10-28 19:41:52.454] [jointLog] [info] done
+[2019-10-28 19:41:52.454] [jointLog] [info] Index contained 52,718 targets
+[2019-10-28 19:41:53.603] [jointLog] [info] Automatically detected most likely library type as ISR
+[2019-10-28 19:43:36.937] [jointLog] [info] Thread saw mini-batch with a maximum of 1.14% zero probability fragments
+[2019-10-28 19:43:36.941] [jointLog] [info] Thread saw mini-batch with a maximum of 1.26% zero probability fragments
+[2019-10-28 19:43:36.978] [jointLog] [info] Thread saw mini-batch with a maximum of 1.22% zero probability fragments
+[2019-10-28 19:43:36.993] [jointLog] [info] Thread saw mini-batch with a maximum of 1.30% zero probability fragments
+[2019-10-28 19:43:37.031] [jointLog] [info] Thread saw mini-batch with a maximum of 1.22% zero probability fragments
+[2019-10-28 19:43:37.066] [jointLog] [info] Thread saw mini-batch with a maximum of 1.26% zero probability fragments
+[2019-10-28 19:43:37.070] [jointLog] [info] Thread saw mini-batch with a maximum of 1.22% zero probability fragments
+[2019-10-28 19:43:37.078] [jointLog] [info] Thread saw mini-batch with a maximum of 1.28% zero probability fragments
+[2019-10-28 19:43:37.170] [jointLog] [info] Computed 80,131 rich equivalence classes for further processing
+[2019-10-28 19:43:37.170] [jointLog] [info] Counted 17,303,442 total reads in the equivalence classes 
+[2019-10-28 19:43:37.187] [jointLog] [info] Number of mappings discarded because of alignment score : 586,218
+[2019-10-28 19:43:37.187] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 608,686
+[2019-10-28 19:43:37.187] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
+[2019-10-28 19:43:37.187] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 97,404
+[2019-10-28 19:43:37.187] [jointLog] [info] Mapping rate = 84.3582%
 
-[2019-10-10 12:03:05.218] [jointLog] [info] finished quantifyLibrary()
-[2019-10-10 12:03:05.219] [jointLog] [info] Starting optimizer
-[2019-10-10 12:03:05.242] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
-[2019-10-10 12:03:05.245] [jointLog] [info] iteration = 0 | max rel diff. = 20639.6
-[2019-10-10 12:03:05.272] [jointLog] [info] iteration 11, adjusting effective lengths to account for biases
-[2019-10-10 12:03:05.205] [fileLog] [info] 
+[2019-10-28 19:43:37.187] [jointLog] [info] finished quantifyLibrary()
+[2019-10-28 19:43:37.210] [jointLog] [info] Starting optimizer
+[2019-10-28 19:43:37.237] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-10-28 19:43:37.240] [jointLog] [info] iteration = 0 | max rel diff. = 20714.8
+[2019-10-28 19:43:37.268] [jointLog] [info] iteration 11, adjusting effective lengths to account for biases
+[2019-10-28 19:43:37.170] [fileLog] [info] 
 At end of round 0
 ==================
 Observed 20511874 total fragments (20511874 in most recent round)
 
-[2019-10-10 12:03:19.281] [jointLog] [info] Computed expected counts (for bias correction)
-[2019-10-10 12:03:19.282] [jointLog] [info] processed bias for 0.0% of the transcripts
-[2019-10-10 12:03:21.087] [jointLog] [info] processed bias for 10.0% of the transcripts
-[2019-10-10 12:03:22.885] [jointLog] [info] processed bias for 20.0% of the transcripts
-[2019-10-10 12:03:24.746] [jointLog] [info] processed bias for 30.0% of the transcripts
-[2019-10-10 12:03:26.575] [jointLog] [info] processed bias for 40.0% of the transcripts
-[2019-10-10 12:03:28.290] [jointLog] [info] processed bias for 50.0% of the transcripts
-[2019-10-10 12:03:29.981] [jointLog] [info] processed bias for 60.0% of the transcripts
-[2019-10-10 12:03:31.614] [jointLog] [info] processed bias for 70.0% of the transcripts
-[2019-10-10 12:03:33.398] [jointLog] [info] processed bias for 80.0% of the transcripts
-[2019-10-10 12:03:34.981] [jointLog] [info] processed bias for 100.0% of the transcripts
-[2019-10-10 12:03:35.228] [jointLog] [info] iteration = 100 | max rel diff. = 20.4764
-[2019-10-10 12:03:35.503] [jointLog] [info] iteration = 200 | max rel diff. = 16.185
-[2019-10-10 12:03:35.779] [jointLog] [info] iteration = 300 | max rel diff. = 20.5859
-[2019-10-10 12:03:36.055] [jointLog] [info] iteration = 400 | max rel diff. = 3.18597
-[2019-10-10 12:03:36.330] [jointLog] [info] iteration = 500 | max rel diff. = 12.2969
-[2019-10-10 12:03:36.605] [jointLog] [info] iteration = 600 | max rel diff. = 10.1094
-[2019-10-10 12:03:36.879] [jointLog] [info] iteration = 700 | max rel diff. = 14.427
-[2019-10-10 12:03:37.153] [jointLog] [info] iteration = 800 | max rel diff. = 7.26369
-[2019-10-10 12:03:37.427] [jointLog] [info] iteration = 900 | max rel diff. = 12.8295
-[2019-10-10 12:03:37.704] [jointLog] [info] iteration = 1,000 | max rel diff. = 1.74335
-[2019-10-10 12:03:37.978] [jointLog] [info] iteration = 1,100 | max rel diff. = 1.86798
-[2019-10-10 12:03:38.252] [jointLog] [info] iteration = 1,200 | max rel diff. = 2.5355
-[2019-10-10 12:03:38.525] [jointLog] [info] iteration = 1,300 | max rel diff. = 1.63311
-[2019-10-10 12:03:38.799] [jointLog] [info] iteration = 1,400 | max rel diff. = 0.229576
-[2019-10-10 12:03:39.072] [jointLog] [info] iteration = 1,500 | max rel diff. = 2.78499
-[2019-10-10 12:03:39.345] [jointLog] [info] iteration = 1,600 | max rel diff. = 0.395178
-[2019-10-10 12:03:39.618] [jointLog] [info] iteration = 1,700 | max rel diff. = 1.01315
-[2019-10-10 12:03:39.892] [jointLog] [info] iteration = 1,800 | max rel diff. = 8.12778
-[2019-10-10 12:03:40.165] [jointLog] [info] iteration = 1,900 | max rel diff. = 0.510601
-[2019-10-10 12:03:40.438] [jointLog] [info] iteration = 2,000 | max rel diff. = 0.721564
-[2019-10-10 12:03:40.721] [jointLog] [info] iteration = 2,100 | max rel diff. = 0.0824762
-[2019-10-10 12:03:40.995] [jointLog] [info] iteration = 2,200 | max rel diff. = 0.176329
-[2019-10-10 12:03:41.268] [jointLog] [info] iteration = 2,300 | max rel diff. = 6.26954
-[2019-10-10 12:03:41.542] [jointLog] [info] iteration = 2,400 | max rel diff. = 0.0810896
-[2019-10-10 12:03:41.815] [jointLog] [info] iteration = 2,500 | max rel diff. = 0.214459
-[2019-10-10 12:03:42.088] [jointLog] [info] iteration = 2,600 | max rel diff. = 0.104217
-[2019-10-10 12:03:42.361] [jointLog] [info] iteration = 2,700 | max rel diff. = 7.40403
-[2019-10-10 12:03:42.634] [jointLog] [info] iteration = 2,800 | max rel diff. = 0.373817
-[2019-10-10 12:03:42.907] [jointLog] [info] iteration = 2,900 | max rel diff. = 0.113251
-[2019-10-10 12:03:43.180] [jointLog] [info] iteration = 3,000 | max rel diff. = 5.1621
-[2019-10-10 12:03:43.453] [jointLog] [info] iteration = 3,100 | max rel diff. = 0.0705728
-[2019-10-10 12:03:43.725] [jointLog] [info] iteration = 3,200 | max rel diff. = 0.0947619
-[2019-10-10 12:03:44.002] [jointLog] [info] iteration = 3,300 | max rel diff. = 0.177811
-[2019-10-10 12:03:44.276] [jointLog] [info] iteration = 3,400 | max rel diff. = 0.312795
-[2019-10-10 12:03:44.549] [jointLog] [info] iteration = 3,500 | max rel diff. = 0.0433307
-[2019-10-10 12:03:44.822] [jointLog] [info] iteration = 3,600 | max rel diff. = 0.0621845
-[2019-10-10 12:03:45.095] [jointLog] [info] iteration = 3,700 | max rel diff. = 0.077565
-[2019-10-10 12:03:45.367] [jointLog] [info] iteration = 3,800 | max rel diff. = 0.140634
-[2019-10-10 12:03:45.644] [jointLog] [info] iteration = 3,900 | max rel diff. = 0.110963
-[2019-10-10 12:03:45.917] [jointLog] [info] iteration = 4,000 | max rel diff. = 0.0194474
-[2019-10-10 12:03:46.190] [jointLog] [info] iteration = 4,100 | max rel diff. = 0.187684
-[2019-10-10 12:03:46.465] [jointLog] [info] iteration = 4,200 | max rel diff. = 0.0360082
-[2019-10-10 12:03:46.743] [jointLog] [info] iteration = 4,300 | max rel diff. = 0.746455
-[2019-10-10 12:03:46.780] [jointLog] [info] iteration = 4,314 | max rel diff. = 0.00549135
-[2019-10-10 12:03:46.782] [jointLog] [info] Finished optimizer
-[2019-10-10 12:03:46.782] [jointLog] [info] writing output 
+[2019-10-28 19:44:00.886] [jointLog] [info] Computed expected counts (for bias correction)
+[2019-10-28 19:44:00.886] [jointLog] [info] processed bias for 0.0% of the transcripts
+[2019-10-28 19:44:03.105] [jointLog] [info] processed bias for 10.0% of the transcripts
+[2019-10-28 19:44:05.335] [jointLog] [info] processed bias for 20.0% of the transcripts
+[2019-10-28 19:44:07.504] [jointLog] [info] processed bias for 30.0% of the transcripts
+[2019-10-28 19:44:09.824] [jointLog] [info] processed bias for 40.0% of the transcripts
+[2019-10-28 19:44:12.028] [jointLog] [info] processed bias for 50.0% of the transcripts
+[2019-10-28 19:44:14.140] [jointLog] [info] processed bias for 60.0% of the transcripts
+[2019-10-28 19:44:16.349] [jointLog] [info] processed bias for 70.0% of the transcripts
+[2019-10-28 19:44:18.617] [jointLog] [info] processed bias for 80.0% of the transcripts
+[2019-10-28 19:44:20.522] [jointLog] [info] processed bias for 100.0% of the transcripts
+[2019-10-28 19:44:20.778] [jointLog] [info] iteration = 100 | max rel diff. = 19.1491
+[2019-10-28 19:44:21.059] [jointLog] [info] iteration = 200 | max rel diff. = 15.205
+[2019-10-28 19:44:21.342] [jointLog] [info] iteration = 300 | max rel diff. = 17.3657
+[2019-10-28 19:44:21.626] [jointLog] [info] iteration = 400 | max rel diff. = 6.14805
+[2019-10-28 19:44:21.909] [jointLog] [info] iteration = 500 | max rel diff. = 11.6191
+[2019-10-28 19:44:22.192] [jointLog] [info] iteration = 600 | max rel diff. = 8.39802
+[2019-10-28 19:44:22.474] [jointLog] [info] iteration = 700 | max rel diff. = 15.0451
+[2019-10-28 19:44:22.757] [jointLog] [info] iteration = 800 | max rel diff. = 1.30056
+[2019-10-28 19:44:23.040] [jointLog] [info] iteration = 900 | max rel diff. = 14.7838
+[2019-10-28 19:44:23.323] [jointLog] [info] iteration = 1,000 | max rel diff. = 3.03588
+[2019-10-28 19:44:23.606] [jointLog] [info] iteration = 1,100 | max rel diff. = 20.639
+[2019-10-28 19:44:23.888] [jointLog] [info] iteration = 1,200 | max rel diff. = 6.02112
+[2019-10-28 19:44:24.171] [jointLog] [info] iteration = 1,300 | max rel diff. = 3.64061
+[2019-10-28 19:44:24.452] [jointLog] [info] iteration = 1,400 | max rel diff. = 0.48937
+[2019-10-28 19:44:24.734] [jointLog] [info] iteration = 1,500 | max rel diff. = 0.168117
+[2019-10-28 19:44:25.016] [jointLog] [info] iteration = 1,600 | max rel diff. = 4.95341
+[2019-10-28 19:44:25.298] [jointLog] [info] iteration = 1,700 | max rel diff. = 0.320668
+[2019-10-28 19:44:25.580] [jointLog] [info] iteration = 1,800 | max rel diff. = 0.641851
+[2019-10-28 19:44:25.861] [jointLog] [info] iteration = 1,900 | max rel diff. = 1.34133
+[2019-10-28 19:44:26.143] [jointLog] [info] iteration = 2,000 | max rel diff. = 1.22376
+[2019-10-28 19:44:26.422] [jointLog] [info] iteration = 2,100 | max rel diff. = 0.465533
+[2019-10-28 19:44:26.703] [jointLog] [info] iteration = 2,200 | max rel diff. = 0.0528001
+[2019-10-28 19:44:26.985] [jointLog] [info] iteration = 2,300 | max rel diff. = 0.206198
+[2019-10-28 19:44:27.267] [jointLog] [info] iteration = 2,400 | max rel diff. = 0.921775
+[2019-10-28 19:44:27.549] [jointLog] [info] iteration = 2,500 | max rel diff. = 0.986878
+[2019-10-28 19:44:27.833] [jointLog] [info] iteration = 2,600 | max rel diff. = 0.0426033
+[2019-10-28 19:44:28.115] [jointLog] [info] iteration = 2,700 | max rel diff. = 0.0783446
+[2019-10-28 19:44:28.397] [jointLog] [info] iteration = 2,800 | max rel diff. = 0.103287
+[2019-10-28 19:44:28.679] [jointLog] [info] iteration = 2,900 | max rel diff. = 0.0839866
+[2019-10-28 19:44:28.960] [jointLog] [info] iteration = 3,000 | max rel diff. = 0.834396
+[2019-10-28 19:44:29.241] [jointLog] [info] iteration = 3,100 | max rel diff. = 4.701
+[2019-10-28 19:44:29.517] [jointLog] [info] iteration = 3,200 | max rel diff. = 0.576671
+[2019-10-28 19:44:29.793] [jointLog] [info] iteration = 3,300 | max rel diff. = 0.141799
+[2019-10-28 19:44:30.075] [jointLog] [info] iteration = 3,400 | max rel diff. = 0.0395348
+[2019-10-28 19:44:30.358] [jointLog] [info] iteration = 3,500 | max rel diff. = 0.569113
+[2019-10-28 19:44:30.640] [jointLog] [info] iteration = 3,600 | max rel diff. = 0.325795
+[2019-10-28 19:44:30.922] [jointLog] [info] iteration = 3,700 | max rel diff. = 0.260008
+[2019-10-28 19:44:31.205] [jointLog] [info] iteration = 3,800 | max rel diff. = 0.45004
+[2019-10-28 19:44:31.488] [jointLog] [info] iteration = 3,900 | max rel diff. = 0.182314
+[2019-10-28 19:44:31.768] [jointLog] [info] iteration = 4,000 | max rel diff. = 0.0718148
+[2019-10-28 19:44:32.043] [jointLog] [info] iteration = 4,100 | max rel diff. = 0.0529617
+[2019-10-28 19:44:32.320] [jointLog] [info] iteration = 4,200 | max rel diff. = 0.0903988
+[2019-10-28 19:44:32.600] [jointLog] [info] iteration = 4,300 | max rel diff. = 0.09076
+[2019-10-28 19:44:32.693] [jointLog] [info] iteration = 4,334 | max rel diff. = 0.00979981
+[2019-10-28 19:44:32.695] [jointLog] [info] Finished optimizer
+[2019-10-28 19:44:32.696] [jointLog] [info] writing output 
 
-[2019-10-10 12:03:46.880] [jointLog] [info] Starting Bootstrapping
-[2019-10-10 12:03:46.904] [jointLog] [info] Will draw 100 bootstrap samples
-[2019-10-10 12:03:46.904] [jointLog] [info] Optimizing over 80,096 equivalence classes
-[2019-10-10 12:03:46.911] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
-[2019-10-10 12:04:21.216] [jointLog] [info] wrote 1 bootstraps
-[2019-10-10 12:04:24.446] [jointLog] [info] wrote 2 bootstraps
-[2019-10-10 12:04:25.273] [jointLog] [info] wrote 3 bootstraps
-[2019-10-10 12:04:25.529] [jointLog] [info] wrote 4 bootstraps
-[2019-10-10 12:04:25.776] [jointLog] [info] wrote 5 bootstraps
-[2019-10-10 12:04:25.916] [jointLog] [info] wrote 6 bootstraps
-[2019-10-10 12:04:27.414] [jointLog] [info] wrote 7 bootstraps
-[2019-10-10 12:05:04.128] [jointLog] [info] wrote 8 bootstraps
-[2019-10-10 12:05:05.086] [jointLog] [info] wrote 9 bootstraps
-[2019-10-10 12:05:06.828] [jointLog] [info] wrote 10 bootstraps
-[2019-10-10 12:05:07.703] [jointLog] [info] wrote 11 bootstraps
-[2019-10-10 12:05:10.430] [jointLog] [info] wrote 12 bootstraps
-[2019-10-10 12:05:12.201] [jointLog] [info] wrote 13 bootstraps
-[2019-10-10 12:05:13.100] [jointLog] [info] wrote 14 bootstraps
-[2019-10-10 12:05:38.940] [jointLog] [info] wrote 15 bootstraps
-[2019-10-10 12:05:45.250] [jointLog] [info] wrote 16 bootstraps
-[2019-10-10 12:05:45.705] [jointLog] [info] wrote 17 bootstraps
-[2019-10-10 12:05:47.306] [jointLog] [info] wrote 18 bootstraps
-[2019-10-10 12:05:50.494] [jointLog] [info] wrote 19 bootstraps
-[2019-10-10 12:05:52.233] [jointLog] [info] wrote 20 bootstraps
-[2019-10-10 12:05:55.617] [jointLog] [info] wrote 21 bootstraps
-[2019-10-10 12:06:21.190] [jointLog] [info] wrote 22 bootstraps
-[2019-10-10 12:06:23.981] [jointLog] [info] wrote 23 bootstraps
-[2019-10-10 12:06:27.400] [jointLog] [info] wrote 24 bootstraps
-[2019-10-10 12:06:28.489] [jointLog] [info] wrote 25 bootstraps
-[2019-10-10 12:06:29.546] [jointLog] [info] wrote 26 bootstraps
-[2019-10-10 12:06:32.258] [jointLog] [info] wrote 27 bootstraps
-[2019-10-10 12:06:40.455] [jointLog] [info] wrote 28 bootstraps
-[2019-10-10 12:06:55.246] [jointLog] [info] wrote 29 bootstraps
-[2019-10-10 12:07:03.863] [jointLog] [info] wrote 30 bootstraps
-[2019-10-10 12:07:07.545] [jointLog] [info] wrote 31 bootstraps
-[2019-10-10 12:07:09.887] [jointLog] [info] wrote 32 bootstraps
-[2019-10-10 12:07:10.204] [jointLog] [info] wrote 33 bootstraps
-[2019-10-10 12:07:12.303] [jointLog] [info] wrote 34 bootstraps
-[2019-10-10 12:07:17.395] [jointLog] [info] wrote 35 bootstraps
-[2019-10-10 12:07:37.650] [jointLog] [info] wrote 36 bootstraps
-[2019-10-10 12:07:42.296] [jointLog] [info] wrote 37 bootstraps
-[2019-10-10 12:07:43.966] [jointLog] [info] wrote 38 bootstraps
-[2019-10-10 12:07:44.925] [jointLog] [info] wrote 39 bootstraps
-[2019-10-10 12:07:48.271] [jointLog] [info] wrote 40 bootstraps
-[2019-10-10 12:07:50.516] [jointLog] [info] wrote 41 bootstraps
-[2019-10-10 12:07:56.346] [jointLog] [info] wrote 42 bootstraps
-[2019-10-10 12:08:14.291] [jointLog] [info] wrote 43 bootstraps
-[2019-10-10 12:08:16.346] [jointLog] [info] wrote 44 bootstraps
-[2019-10-10 12:08:23.059] [jointLog] [info] wrote 45 bootstraps
-[2019-10-10 12:08:24.273] [jointLog] [info] wrote 46 bootstraps
-[2019-10-10 12:08:27.696] [jointLog] [info] wrote 47 bootstraps
-[2019-10-10 12:08:33.402] [jointLog] [info] wrote 48 bootstraps
-[2019-10-10 12:08:37.131] [jointLog] [info] wrote 49 bootstraps
-[2019-10-10 12:08:53.192] [jointLog] [info] wrote 50 bootstraps
-[2019-10-10 12:08:53.227] [jointLog] [info] wrote 51 bootstraps
-[2019-10-10 12:09:05.378] [jointLog] [info] wrote 52 bootstraps
-[2019-10-10 12:09:05.866] [jointLog] [info] wrote 53 bootstraps
-[2019-10-10 12:09:07.020] [jointLog] [info] wrote 54 bootstraps
-[2019-10-10 12:09:12.879] [jointLog] [info] wrote 55 bootstraps
-[2019-10-10 12:09:15.300] [jointLog] [info] wrote 56 bootstraps
-[2019-10-10 12:09:30.368] [jointLog] [info] wrote 57 bootstraps
-[2019-10-10 12:09:37.656] [jointLog] [info] wrote 58 bootstraps
-[2019-10-10 12:09:48.680] [jointLog] [info] wrote 59 bootstraps
-[2019-10-10 12:09:49.334] [jointLog] [info] wrote 60 bootstraps
-[2019-10-10 12:09:49.883] [jointLog] [info] wrote 61 bootstraps
-[2019-10-10 12:09:53.406] [jointLog] [info] wrote 62 bootstraps
-[2019-10-10 12:09:54.535] [jointLog] [info] wrote 63 bootstraps
-[2019-10-10 12:10:09.709] [jointLog] [info] wrote 64 bootstraps
-[2019-10-10 12:10:18.327] [jointLog] [info] wrote 65 bootstraps
-[2019-10-10 12:10:22.695] [jointLog] [info] wrote 66 bootstraps
-[2019-10-10 12:10:24.887] [jointLog] [info] wrote 67 bootstraps
-[2019-10-10 12:10:27.585] [jointLog] [info] wrote 68 bootstraps
-[2019-10-10 12:10:28.581] [jointLog] [info] wrote 69 bootstraps
-[2019-10-10 12:10:32.533] [jointLog] [info] wrote 70 bootstraps
-[2019-10-10 12:10:48.830] [jointLog] [info] wrote 71 bootstraps
-[2019-10-10 12:10:56.571] [jointLog] [info] wrote 72 bootstraps
-[2019-10-10 12:10:57.336] [jointLog] [info] wrote 73 bootstraps
-[2019-10-10 12:11:03.872] [jointLog] [info] wrote 74 bootstraps
-[2019-10-10 12:11:07.549] [jointLog] [info] wrote 75 bootstraps
-[2019-10-10 12:11:11.882] [jointLog] [info] wrote 76 bootstraps
-[2019-10-10 12:11:16.515] [jointLog] [info] wrote 77 bootstraps
-[2019-10-10 12:11:27.331] [jointLog] [info] wrote 78 bootstraps
-[2019-10-10 12:11:35.255] [jointLog] [info] wrote 79 bootstraps
-[2019-10-10 12:11:38.517] [jointLog] [info] wrote 80 bootstraps
-[2019-10-10 12:11:42.609] [jointLog] [info] wrote 81 bootstraps
-[2019-10-10 12:11:48.193] [jointLog] [info] wrote 82 bootstraps
-[2019-10-10 12:11:48.425] [jointLog] [info] wrote 83 bootstraps
-[2019-10-10 12:11:56.987] [jointLog] [info] wrote 84 bootstraps
-[2019-10-10 12:12:05.362] [jointLog] [info] wrote 85 bootstraps
-[2019-10-10 12:12:08.992] [jointLog] [info] wrote 86 bootstraps
-[2019-10-10 12:12:16.470] [jointLog] [info] wrote 87 bootstraps
-[2019-10-10 12:12:22.251] [jointLog] [info] wrote 88 bootstraps
-[2019-10-10 12:12:32.561] [jointLog] [info] wrote 89 bootstraps
-[2019-10-10 12:12:37.758] [jointLog] [info] wrote 90 bootstraps
-[2019-10-10 12:12:38.931] [jointLog] [info] wrote 91 bootstraps
-[2019-10-10 12:12:45.472] [jointLog] [info] wrote 92 bootstraps
-[2019-10-10 12:12:49.004] [jointLog] [info] wrote 93 bootstraps
-[2019-10-10 12:13:01.440] [jointLog] [info] wrote 94 bootstraps
-[2019-10-10 12:13:02.120] [jointLog] [info] wrote 95 bootstraps
-[2019-10-10 12:13:10.180] [jointLog] [info] wrote 96 bootstraps
-[2019-10-10 12:13:14.186] [jointLog] [info] wrote 97 bootstraps
-[2019-10-10 12:13:23.110] [jointLog] [info] wrote 98 bootstraps
-[2019-10-10 12:13:24.677] [jointLog] [info] wrote 99 bootstraps
-[2019-10-10 12:13:26.675] [jointLog] [info] wrote 100 bootstraps
-[2019-10-10 12:13:26.680] [jointLog] [info] Finished Bootstrapping
+[2019-10-28 19:44:32.901] [jointLog] [info] Starting Bootstrapping
+[2019-10-28 19:44:32.927] [jointLog] [info] Will draw 100 bootstrap samples
+[2019-10-28 19:44:32.927] [jointLog] [info] Optimizing over 80,131 equivalence classes
+[2019-10-28 19:44:32.936] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-10-28 19:45:12.963] [jointLog] [info] wrote 1 bootstraps
+[2019-10-28 19:45:14.409] [jointLog] [info] wrote 2 bootstraps
+[2019-10-28 19:45:15.586] [jointLog] [info] wrote 3 bootstraps
+[2019-10-28 19:45:15.913] [jointLog] [info] wrote 4 bootstraps
+[2019-10-28 19:45:19.357] [jointLog] [info] wrote 5 bootstraps
+[2019-10-28 19:45:21.397] [jointLog] [info] wrote 6 bootstraps
+[2019-10-28 19:45:22.049] [jointLog] [info] wrote 7 bootstraps
+[2019-10-28 19:45:54.667] [jointLog] [info] wrote 8 bootstraps
+[2019-10-28 19:45:58.599] [jointLog] [info] wrote 9 bootstraps
+[2019-10-28 19:45:59.501] [jointLog] [info] wrote 10 bootstraps
+[2019-10-28 19:46:00.861] [jointLog] [info] wrote 11 bootstraps
+[2019-10-28 19:46:14.220] [jointLog] [info] wrote 12 bootstraps
+[2019-10-28 19:46:14.514] [jointLog] [info] wrote 13 bootstraps
+[2019-10-28 19:46:18.491] [jointLog] [info] wrote 14 bootstraps
+[2019-10-28 19:46:41.592] [jointLog] [info] wrote 15 bootstraps
+[2019-10-28 19:46:44.363] [jointLog] [info] wrote 16 bootstraps
+[2019-10-28 19:46:46.875] [jointLog] [info] wrote 17 bootstraps
+[2019-10-28 19:46:49.263] [jointLog] [info] wrote 18 bootstraps
+[2019-10-28 19:46:59.361] [jointLog] [info] wrote 19 bootstraps
+[2019-10-28 19:47:00.722] [jointLog] [info] wrote 20 bootstraps
+[2019-10-28 19:47:02.387] [jointLog] [info] wrote 21 bootstraps
+[2019-10-28 19:47:26.047] [jointLog] [info] wrote 22 bootstraps
+[2019-10-28 19:47:27.102] [jointLog] [info] wrote 23 bootstraps
+[2019-10-28 19:47:33.802] [jointLog] [info] wrote 24 bootstraps
+[2019-10-28 19:47:35.009] [jointLog] [info] wrote 25 bootstraps
+[2019-10-28 19:47:45.289] [jointLog] [info] wrote 26 bootstraps
+[2019-10-28 19:47:51.874] [jointLog] [info] wrote 27 bootstraps
+[2019-10-28 19:47:52.072] [jointLog] [info] wrote 28 bootstraps
+[2019-10-28 19:48:12.031] [jointLog] [info] wrote 29 bootstraps
+[2019-10-28 19:48:15.240] [jointLog] [info] wrote 30 bootstraps
+[2019-10-28 19:48:17.335] [jointLog] [info] wrote 31 bootstraps
+[2019-10-28 19:48:19.735] [jointLog] [info] wrote 32 bootstraps
+[2019-10-28 19:48:34.217] [jointLog] [info] wrote 33 bootstraps
+[2019-10-28 19:48:37.137] [jointLog] [info] wrote 34 bootstraps
+[2019-10-28 19:48:45.446] [jointLog] [info] wrote 35 bootstraps
+[2019-10-28 19:48:56.198] [jointLog] [info] wrote 36 bootstraps
+[2019-10-28 19:49:00.602] [jointLog] [info] wrote 37 bootstraps
+[2019-10-28 19:49:05.333] [jointLog] [info] wrote 38 bootstraps
+[2019-10-28 19:49:07.823] [jointLog] [info] wrote 39 bootstraps
+[2019-10-28 19:49:15.285] [jointLog] [info] wrote 40 bootstraps
+[2019-10-28 19:49:22.522] [jointLog] [info] wrote 41 bootstraps
+[2019-10-28 19:49:33.780] [jointLog] [info] wrote 42 bootstraps
+[2019-10-28 19:49:39.743] [jointLog] [info] wrote 43 bootstraps
+[2019-10-28 19:49:40.401] [jointLog] [info] wrote 44 bootstraps
+[2019-10-28 19:49:43.130] [jointLog] [info] wrote 45 bootstraps
+[2019-10-28 19:49:48.969] [jointLog] [info] wrote 46 bootstraps
+[2019-10-28 19:50:03.676] [jointLog] [info] wrote 47 bootstraps
+[2019-10-28 19:50:16.695] [jointLog] [info] wrote 48 bootstraps
+[2019-10-28 19:50:19.940] [jointLog] [info] wrote 49 bootstraps
+[2019-10-28 19:50:22.955] [jointLog] [info] wrote 50 bootstraps
+[2019-10-28 19:50:28.324] [jointLog] [info] wrote 51 bootstraps
+[2019-10-28 19:50:31.060] [jointLog] [info] wrote 52 bootstraps
+[2019-10-28 19:50:33.939] [jointLog] [info] wrote 53 bootstraps
+[2019-10-28 19:50:53.044] [jointLog] [info] wrote 54 bootstraps
+[2019-10-28 19:51:01.932] [jointLog] [info] wrote 55 bootstraps
+[2019-10-28 19:51:02.789] [jointLog] [info] wrote 56 bootstraps
+[2019-10-28 19:51:04.590] [jointLog] [info] wrote 57 bootstraps
+[2019-10-28 19:51:13.769] [jointLog] [info] wrote 58 bootstraps
+[2019-10-28 19:51:18.531] [jointLog] [info] wrote 59 bootstraps
+[2019-10-28 19:51:26.414] [jointLog] [info] wrote 60 bootstraps
+[2019-10-28 19:51:38.096] [jointLog] [info] wrote 61 bootstraps
+[2019-10-28 19:51:40.104] [jointLog] [info] wrote 62 bootstraps
+[2019-10-28 19:51:47.204] [jointLog] [info] wrote 63 bootstraps
+[2019-10-28 19:51:51.670] [jointLog] [info] wrote 64 bootstraps
+[2019-10-28 19:52:00.527] [jointLog] [info] wrote 65 bootstraps
+[2019-10-28 19:52:02.605] [jointLog] [info] wrote 66 bootstraps
+[2019-10-28 19:52:10.874] [jointLog] [info] wrote 67 bootstraps
+[2019-10-28 19:52:20.304] [jointLog] [info] wrote 68 bootstraps
+[2019-10-28 19:52:31.946] [jointLog] [info] wrote 69 bootstraps
+[2019-10-28 19:52:32.473] [jointLog] [info] wrote 70 bootstraps
+[2019-10-28 19:52:33.672] [jointLog] [info] wrote 71 bootstraps
+[2019-10-28 19:52:43.485] [jointLog] [info] wrote 72 bootstraps
+[2019-10-28 19:52:52.749] [jointLog] [info] wrote 73 bootstraps
+[2019-10-28 19:52:53.941] [jointLog] [info] wrote 74 bootstraps
+[2019-10-28 19:53:05.801] [jointLog] [info] wrote 75 bootstraps
+[2019-10-28 19:53:11.070] [jointLog] [info] wrote 76 bootstraps
+[2019-10-28 19:53:20.792] [jointLog] [info] wrote 77 bootstraps
+[2019-10-28 19:53:21.242] [jointLog] [info] wrote 78 bootstraps
+[2019-10-28 19:53:31.837] [jointLog] [info] wrote 79 bootstraps
+[2019-10-28 19:53:34.369] [jointLog] [info] wrote 80 bootstraps
+[2019-10-28 19:53:47.851] [jointLog] [info] wrote 81 bootstraps
+[2019-10-28 19:53:48.521] [jointLog] [info] wrote 82 bootstraps
+[2019-10-28 19:53:56.676] [jointLog] [info] wrote 83 bootstraps
+[2019-10-28 19:54:05.710] [jointLog] [info] wrote 84 bootstraps
+[2019-10-28 19:54:13.912] [jointLog] [info] wrote 85 bootstraps
+[2019-10-28 19:54:14.051] [jointLog] [info] wrote 86 bootstraps
+[2019-10-28 19:54:27.317] [jointLog] [info] wrote 87 bootstraps
+[2019-10-28 19:54:34.498] [jointLog] [info] wrote 88 bootstraps
+[2019-10-28 19:54:38.112] [jointLog] [info] wrote 89 bootstraps
+[2019-10-28 19:54:41.634] [jointLog] [info] wrote 90 bootstraps
+[2019-10-28 19:54:42.180] [jointLog] [info] wrote 91 bootstraps
+[2019-10-28 19:55:03.159] [jointLog] [info] wrote 92 bootstraps
+[2019-10-28 19:55:07.257] [jointLog] [info] wrote 93 bootstraps
+[2019-10-28 19:55:11.932] [jointLog] [info] wrote 94 bootstraps
+[2019-10-28 19:55:28.650] [jointLog] [info] wrote 95 bootstraps
+[2019-10-28 19:55:30.744] [jointLog] [info] wrote 96 bootstraps
+[2019-10-28 19:55:31.793] [jointLog] [info] wrote 97 bootstraps
+[2019-10-28 19:55:31.894] [jointLog] [info] wrote 98 bootstraps
+[2019-10-28 19:55:48.463] [jointLog] [info] wrote 99 bootstraps
+[2019-10-28 19:55:48.767] [jointLog] [info] wrote 100 bootstraps
+[2019-10-28 19:55:48.773] [jointLog] [info] Finished Bootstrapping

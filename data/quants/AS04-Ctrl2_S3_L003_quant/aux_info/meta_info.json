@@ -12,9 +12,9 @@
     "gc_bias_correct": true,
     "num_bias_bins": 4096,
     "mapping_type": "mapping",
-    "num_valid_targets": 52719,
+    "num_valid_targets": 52718,
     "num_decoy_targets": 0,
-    "num_eq_classes": 82645,
+    "num_eq_classes": 82453,
     "serialized_eq_classes": false,
     "eq_class_properties": [
         "range_factorized"
@@ -24,21 +24,21 @@
         1197,
         1641,
         2325,
-        19897
+        59722
     ],
-    "index_seq_hash": "9833100801998b46661d6c44307875b02fd00b665f9ac1941255b555f8a13613",
-    "index_name_hash": "e652e39d4566e041f2d4dde4c0a5f9298b7969796487a7cb8e73732783ff0613",
-    "index_seq_hash512": "39f16b745ac3ed4281087f4621a8a138175294dd0d3d7eb4c8385fc4902ef7b484f97946957c9519943412d0e3051d88ef173e39b6bcf68c2039e5939149db0d",
-    "index_name_hash512": "c60d33264b5f9e4b5db5927ffbc8381890d2016ab36aa0700ac3a8ef747ec652d5210b99b9b282fea79987a9094322a2cc934db5f72d9dd5a31be6a4e0cc3b89",
+    "index_seq_hash": "7e7fd6a140307692ac8e2f0d9c99d69cc8f95581b4b9c1034eac44762c8b3748",
+    "index_name_hash": "11c2c98813caf9f7ea5cd3bb1ed66197565df8e5759c02f1f408b9aa0eb94d4c",
+    "index_seq_hash512": "aa6466077a2dba017279f4b721466d91af20caf38272b05e111c46ec2d8a146de978c9fe3b683843fa8851b2f6685f875d670c9b344e85ecaa1a27d792bd613f",
+    "index_name_hash512": "6b47d47bea45e9497c609abe1540a7af6a5bb5c6ff717fcb0da462c6e7812597a33d4dba65746c84e8fcc3cca8a1b923f6ce8fca1318ceb30b3051c76b8c6f7f",
     "num_bootstraps": 100,
     "num_processed": 22771142,
-    "num_mapped": 19398584,
+    "num_mapped": 19398572,
     "num_decoy_fragments": 0,
     "num_dovetail_fragments": 102856,
     "num_fragments_filtered_vm": 672162,
-    "num_alignments_below_threshold_for_mapped_fragments_vm": 679271,
-    "percent_mapped": 85.18933306023914,
+    "num_alignments_below_threshold_for_mapped_fragments_vm": 679267,
+    "percent_mapped": 85.18928036195989,
     "call": "quant",
-    "start_time": "Thu Oct 10 09:45:01 2019",
-    "end_time": "Thu Oct 10 09:56:37 2019"
+    "start_time": "Mon Oct 28 16:59:54 2019",
+    "end_time": "Mon Oct 28 17:15:50 2019"
 }
