@@ -297,7 +297,7 @@ resSorted %>%
   left_join(insitu_data) -> resISH
 resISH %>% View()
 
-write_csv(resISH, "Crob_zfp36_crispr2.csv")
+write_csv(resISH, "Crob_zfp36_crispr.csv")
 
 res.g_0.05 <- res.g %>% as_tibble() %>% mutate(KHid = rownames(res.g)) %>% filter(pvalue <= 0.05)
 res_removeRep2.g_0.05 <- res_removeRep2.g %>% as_tibble() %>% mutate(KHid = rownames(res_removeRep2.g)) %>% filter(pvalue <= 0.05)
