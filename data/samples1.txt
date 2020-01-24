@@ -1,0 +1,9 @@
+pop	center	assay	sample	experiment	run	rep	lane
+Crob	GATECH	AS04-Ctrl1_S1_L001	S1	AS04	AS04 rep1	lane_1
+Crob	GATECH	AS04-Ctrl1_S1_L002	S1	AS04	AS04 rep1	lane_2
+Crob	GATECH	AS04-Ctrl1_S1_L003	S1	AS04	AS04 rep1	lane_3
+Crob	GATECH	AS04-Ctrl1_S1_L004	S1	AS04	AS04 rep1	lane_4
+Crob	GATECH	AS04-Zfp1_S2_L001	S2	AS04	AS04 rep1	lane_1
+Crob	GATECH	AS04-Zfp1_S2_L002	S2	AS04	AS04 rep1	lane_2
+Crob	GATECH	AS04-Zfp1_S2_L003	S2	AS04	AS04 rep1	lane_3
+Crob	GATECH	AS04-Zfp1_S2_L004	S2	AS04	AS04 rep1	lane_4
